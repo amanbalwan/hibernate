@@ -48,8 +48,6 @@ public class Product {
         this.category = category;
     }
 
-    // Enhanced Functionality
-
     public void clearCategory() {
         this.category = null;
     }
